@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//KAMEL AHMED KAMEL GABER G2
+//Kareem Elbalshy G2
 
 int main()
 {
